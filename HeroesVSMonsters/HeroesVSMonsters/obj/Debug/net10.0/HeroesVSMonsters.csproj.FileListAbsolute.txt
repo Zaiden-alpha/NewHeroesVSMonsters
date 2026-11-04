@@ -1,0 +1,15 @@
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\bin\Debug\net10.0\HeroesVSMonsters.exe
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\bin\Debug\net10.0\HeroesVSMonsters.deps.json
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\bin\Debug\net10.0\HeroesVSMonsters.runtimeconfig.json
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\bin\Debug\net10.0\HeroesVSMonsters.dll
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\bin\Debug\net10.0\HeroesVSMonsters.pdb
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.AssemblyInfoInputs.cache
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.AssemblyInfo.cs
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.dll
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\refint\HeroesVSMonsters.dll
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.pdb
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVSMonsters.genruntimeconfig.cache
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\ref\HeroesVSMonsters.dll
+C:\Users\Gwend\source\repos\HeroesVSMonsters\HeroesVSMonsters\obj\Debug\net10.0\HeroesVS.25C731E5.Up2Date
